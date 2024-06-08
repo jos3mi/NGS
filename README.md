@@ -1,5 +1,5 @@
 # NGS
 Proyecto fin de grado
-Hecho por: Jose Miguel Ruiz
+hecho por: Jose Miguel Ruiz
 
  CC-BY-SA
